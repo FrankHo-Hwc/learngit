@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 git doesn't track changes
 My stupid boss still prefers SVN.
+Creating a new branch is quick.
